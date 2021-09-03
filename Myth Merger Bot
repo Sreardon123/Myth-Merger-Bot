@@ -1,4 +1,7 @@
 # Myth-Merger-Bot
+
+URL to Twitter Bot: https://twitter.com/MythMergerBot
+
 {
 	"origin": ["The god #figure# #verb# #event#", "The #event# were #verb# by #figure#", "The world was #verb# by #figure#", "#figure# was the god of #event#", "#figure# #verb# the god #figure#"],
 	"figure" : [
